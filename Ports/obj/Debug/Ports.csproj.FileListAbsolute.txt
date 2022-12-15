@@ -1,0 +1,11 @@
+C:\Users\rupav\source\repos\Ports\bin\Debug\Ports.exe.config
+C:\Users\rupav\source\repos\Ports\bin\Debug\Ports.exe
+C:\Users\rupav\source\repos\Ports\bin\Debug\Ports.pdb
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.csproj.AssemblyReference.cache
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.csproj.SuggestedBindingRedirects.cache
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.Ports.resources
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.Properties.Resources.resources
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.csproj.GenerateResource.cache
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.csproj.CoreCompileInputs.cache
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.exe
+C:\Users\rupav\source\repos\Ports\obj\Debug\Ports.pdb
